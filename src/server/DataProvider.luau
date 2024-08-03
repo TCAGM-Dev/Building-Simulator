@@ -1,0 +1,1 @@
+return require(script.Parent.Database).new("data")
